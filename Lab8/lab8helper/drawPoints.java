@@ -30,5 +30,5 @@ public class drawPoints extends PApplet {
 
   	public static void main(String args[]) {
       PApplet.main("drawPoints");
-   }
+   } //test comment for commit
 }
